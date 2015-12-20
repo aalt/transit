@@ -1,0 +1,5 @@
+fare_id,route_id,origin_id,destination_id,contains_id
+fare_100,,222097Z_OTS,222097Z_OTS,
+fare_100,,222097Z_YUI,222097Z_YUI,
+fare_200,,222097Z_OTS,222097Z_YUI,
+fare_200,,222097Z_YUI,222097Z_OTS,
